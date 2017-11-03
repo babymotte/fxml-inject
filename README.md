@@ -1,4 +1,4 @@
-# BBMSoft Utils
+# BBMSoft FXML-Inject
 
 [![Build Status](https://travis-ci.org/babymotte/fxml-inject.svg?branch=develop)](https://travis-ci.org/babymotte/fxml-inject)
 
