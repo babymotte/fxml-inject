@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import net.bbmsoft.fxtended.fxml.*?>
+
+<Printer>
+	<texts>Hello</texts>
+	<texts>World</texts>
+	<texts>!</texts>
+</Printer>
